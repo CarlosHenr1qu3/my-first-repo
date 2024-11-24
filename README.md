@@ -8,4 +8,4 @@ This repo was created to learn how to work with GitHub
 - GitHub
 - SSH
 
-Visit my profile in GitHub
+Visit my profile in GitHub or my social media
